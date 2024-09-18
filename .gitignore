@@ -139,3 +139,5 @@ data/
 sort_data/
 Database/
 
+node_modules/
+
