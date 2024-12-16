@@ -18,8 +18,3 @@ python app.py &> logs.txt
 <!-- npx localtunnel --port 5001 -->
 ```
 
-URL: http://0.0.0.0:5001/home?index=0
-
-
-"# AI_UI" 
-"# AI_UI" 
